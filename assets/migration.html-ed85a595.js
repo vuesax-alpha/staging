@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d0112c92","path":"/guide/migration.html","title":"Migration","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1719628016000,"updatedTime":1719628016000,"contributors":[{"name":"badspider7","email":"54093230+badspider7@users.noreply.github.com","commits":1}]}}');export{e as data};

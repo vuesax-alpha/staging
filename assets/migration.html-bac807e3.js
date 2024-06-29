@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-d0112c92","path":"/guide/migration.html","title":"Migration","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1719586296000,"updatedTime":1719586296000,"contributors":[{"name":"钟意","email":"nepenthic@163.com","commits":1}]}}');export{t as data};
