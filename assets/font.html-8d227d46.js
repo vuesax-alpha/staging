@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-297705ea","path":"/theme/font.html","title":"Font","lang":"en-US","frontmatter":{},"headers":[],"git":{"createdTime":1719628016000,"updatedTime":1719628016000,"contributors":[{"name":"badspider7","email":"54093230+badspider7@users.noreply.github.com","commits":1}]}}');export{e as data};
